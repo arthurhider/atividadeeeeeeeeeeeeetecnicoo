@@ -1,0 +1,9 @@
+#candidato {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+#candidato img {
+    width: 150px;
+    height: 150px;
+}
